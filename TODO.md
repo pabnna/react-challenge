@@ -1,6 +1,6 @@
 ## Installing Dependencies
 
-`npm install`
+### `npm install`
 
 ## Scripts
 
@@ -18,7 +18,7 @@ Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](#running-tests) for more information.
 
 ## TODO
-1. Fix/Write components (I already wrote some tests and code, look at the tests and make them green).
+1. Fix/write components (I already wrote some tests and code, look at the tests and make them green).
 2. Add more tests if needed (test structure and behavior).
 3. Make the components look great with CSS (use flexbox).
 4. (Optional) make App a stateless component (use recompose).
@@ -29,4 +29,3 @@ Before start, you could read:
 [Shallow Enzyme](https://github.com/airbnb/enzyme/blob/master/docs/api/shallow.md)
 [What The Flexbox](https://www.youtube.com/watch?v=Vj7NZ6FiQvo&list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 [Recompose](https://github.com/acdlite/recompose/blob/master/docs/API.md)
-\
