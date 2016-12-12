@@ -21,7 +21,7 @@ See the section about [running tests](#running-tests) for more information.
 1. Fix/Write components (use stateless components).
 2. Make the components look great with CSS (use flexbox).
 3. Make App a stateless component (use recompose).
-4. Replace the getList function in App by a request to a server using react-refetch.
+4. Replace the get list function in App by a request to a server using react-refetch.
 5. Add more tests.
 
 Before start, you should read:
