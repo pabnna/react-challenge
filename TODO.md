@@ -5,6 +5,12 @@
 3. Replace the get list function in ```App``` by a request to a server using [react-refetch](https://github.com/heroku/react-refetch).
 4. Add more tests.
 
+Before start, you should read:
+- [ES2015 Tutorial](https://babeljs.io/docs/learn-es2015/)
+- [What The Flexbox](https://www.youtube.com/watch?v=Vj7NZ6FiQvo&list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
+- [react-refetch](https://github.com/heroku/react-refetch)
+- [Shallow Enzyme](https://github.com/airbnb/enzyme/blob/master/docs/api/shallow.md)
+
 ## Scripts
 
 ### `npm start`
@@ -19,9 +25,3 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](#running-tests) for more information.
-
-Before start, you should read:
-- [ES2015 Tutorial](https://babeljs.io/docs/learn-es2015/)
-- [What The Flexbox](https://www.youtube.com/watch?v=Vj7NZ6FiQvo&list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
-- [react-refetch](https://github.com/heroku/react-refetch)
-- [Shallow Enzyme](https://github.com/airbnb/enzyme/blob/master/docs/api/shallow.md)
