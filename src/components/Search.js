@@ -2,8 +2,14 @@ import React, { PropTypes } from 'react'
 
 import './Search.css'
 
-function Search() {
-  return null
+
+function Search({ searchValue, onChange }) {
+  return (<input
+    className="Search"
+    type="text"
+    value={searchValue}
+    onChange={onChange}
+    placeholder="Search text" />);
 }
 
 Search.propTypes = {

@@ -1,3 +1,9 @@
 .Search {
-  /* TODO: */
+  margin: 1em;
+  padding-inline-start: 1em;
+  border-radius: 17px;
+  border-width: 1em;
+  border-style: inset;
+  border-top-color: cornflowerblue;
+  border-bottom-color: cornflowerblue;
 }
