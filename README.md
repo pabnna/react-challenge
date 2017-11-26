@@ -1,19 +1,3 @@
-### Components and tests fixed, CSS added.
-
-**Try to resize the app.**
-
-There is limit of 40 elements after the filter.
-
-create-react-app is brilliant, so many handy tools already in.
-
-```
-I struggled with an error when running the tests.
-It was fixed by closing the text editor Atom.
-I found the solution here:  https://stackoverflow.com/questions/40999293/npm-test-fails-with-error-for-reactjs-app-created-with-create-react-app
-```
----
----
-
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

@@ -1,22 +1,20 @@
 import React, { PropTypes } from 'react'
-import Text from './Text';
 
 import './SelectedList.css'
 
 function renderText({id, text}) {
-  return (<Text key={id.toString()}>{text}</Text>)
+  return null;
 }
 
 function filterText(searchValue) {
-    return ({text}) => { return text.includes(searchValue); }
+    return ({text}) => true
 }
 
 function SelectedList({ searchValue, list }) {
   return (
-    <ul className="SelectedList">
+    <ul>
       {list
         .filter(filterText(searchValue))
-        .slice(0, 40) // show the first 40 elements after filtering
         .map(renderText)}
     </ul>
   )
