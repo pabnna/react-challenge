@@ -1,0 +1,8 @@
+# eclipse
+.project
+.settings/
+
+# npm start
+build/
+node_modules/
+package-lock.json
